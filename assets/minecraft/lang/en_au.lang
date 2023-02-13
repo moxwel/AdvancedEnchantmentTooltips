@@ -1,0 +1,51 @@
+enchantment.level.1=§6§nI
+enchantment.level.2=§6§nII
+enchantment.level.3=§6§nIII
+enchantment.level.4=§6§nIV
+enchantment.level.5=§6§nV
+enchantment.level.6=§6§nVI
+enchantment.level.7=§6§nVII
+enchantment.level.8=§6§nVIII
+enchantment.level.9=§6§nIX
+enchantment.level.10=§6§nX
+
+----
+enchantment.waterWorker=§r§f騃騊騋§8 |§7 Aqua Affinity
+enchantment.damage.arthropods=§8V §r§f騁騚騈§8 |§7 Bane of Arthropods
+enchantment.protect.explosion=§8IV §r§f騘騅§8 |§7 Blast Protection
+§r§f騢騝§8 |§7 Channeling
+enchantment.waterWalker=§8III §r§f騄騉騋§8 |§7 Depth Strider
+enchantment.digging=§8V §r§f騊§8 |§7 Efficiency
+enchantment.protect.fall=§8IV §r§f騄騌§8 |§7 Feather Falling
+enchantment.fire=§8II §r§f騁騮§8 |§7 Fire Aspect
+enchantment.protect.fire=§8IV §r§f騘騮§8 |§7 Fire Protection
+enchantment.arrowFire=§r§f騐騮§8 |§7 Flame
+enchantment.lootBonusDigger=§8III §r§f騂騏§8 |§7 Fortune
+§8II §r§f騄騛§8 |§7 Frost Walker
+§8V §r§f騢騚騆§8 |§7 Impaling
+enchantment.arrowInfinite=§r§f騐騨§8 |§7 Infinity
+enchantment.knockback=§8II §r§f騁騜§8 |§7 Knockback
+enchantment.lootBonus=§8III §r§f騁騏§8 |§7 Looting
+§8III §r§f騢§8 |§7 Loyalty
+enchantment.lootBonusFishing=§8III §r§f騀騏§8 |§7 Luck of the Sea
+enchantment.fishingSpeed=§8III §r§f騀騬§8 |§7 Lure
+§r§f騠騧§8 |§7 Multishot
+§8IV §r§f騠騦§8 |§7 Piercing
+enchantment.arrowDamage=§8V §r§f騐騚§8 |§7 Power
+enchantment.protect.projectile=§8IV §r§f騘騑§8 |§7 Projectile Protection
+enchantment.protect.all=§8IV §r§f騘§8 |§7 Protection
+enchantment.arrowKnockback=§8II §r§f騐騜§8 |§7 Punch
+§8III §r§f騠騬§8 |§7 Quick Charge
+enchantment.oxygen=§8III §r§f騃騋§8 |§7 Respiration
+§8III §r§f騢騡騋§8 |§7 Riptide
+enchantment.damage.all=§8V §r§f騁騚§8 |§7 Sharpness
+enchantment.untouching=§r§f騯§8 |§7 Silk Touch
+enchantment.damage.undead=§8V §r§f騁騚騇§8 |§7 Smite
+§8III §r§f騄騉§8 |§7 Soul Speed
+§8III §r§f騁騞§8 |§7 Sweeping Edge
+enchantment.thorns=§8III §r§f騘騜§8 |§7 Thorns
+enchantment.durability=§8III §r§f騍§8 |§7 Unbreaking
+§r§f騣§8 |§a§o Mending
+§c§oCurse of Binding
+§c§oCurse of Vanishing
+------

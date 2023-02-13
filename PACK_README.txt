@@ -2,7 +2,7 @@
 
  [ Readme ]
 
-    Advanced Enchantment Tooltips (version 1.6)
+    Advanced Enchantment Tooltips (version 1.7)
     Understand your enchantments!
 
     By: Moxwel >> https://www.planetminecraft.com/member/moxwel/
@@ -10,6 +10,8 @@
     Tested on Minecraft:
     - 1.15.2
     - 1.16.1
+    - 1.16.3
+    - 1.16.4
 
 --------------------
 
@@ -38,9 +40,10 @@
     - Italiano (Italia)
     - Polish - Polski (Polska)
     - Ukrainian - Українська (Україна)
+    - Hungarian - Magyar (Magyarország)
     - Simplified Chinese - 简体中文 (中国)
     - Japanese - 日本語 (日本)
 
-    I will add more languages as I am receiving feedback.
+    I will add more languages as I am receiving feedback in Planet Minecraft.
 
 --------------------

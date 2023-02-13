@@ -1,8 +1,8 @@
 --------------------
 
- [ Readme ]
+ [ About ]
 
-    Advanced Enchantment Tooltips (version 1.8)
+    Advanced Enchantment Tooltips
     Understand your enchantments!
 
     By: Moxwel >> https://www.planetminecraft.com/member/moxwel/
@@ -47,6 +47,6 @@
     - Norwegian Bokmål - Norsk Bokmål (Norge)
     - LOLCAT (Because yes)
 
-    I will add more languages as I am receiving feedback in Planet Minecraft.
+    I will add more languages as I am receiving feedback.
 
 --------------------

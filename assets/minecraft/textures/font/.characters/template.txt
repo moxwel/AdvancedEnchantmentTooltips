@@ -43,6 +43,7 @@
 騡 elytras
 騢 tridente
 騣 mending
+騤 pantalones
 騦 perforacion
 騧 multiflecha
 騨 carcaj

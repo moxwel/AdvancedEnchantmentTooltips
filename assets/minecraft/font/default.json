@@ -1,0 +1,175 @@
+{
+    "providers": [
+
+    { "type": "bitmap",
+            "file": "minecraft:font/creeper.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a05"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/drowned.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a06"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/spider.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a08"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/undead.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a07"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/resistance.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a18"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/dmgup.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a1a"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/bow.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a10"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/crossbow.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a20"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/trident.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a22"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/sword.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a01"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/punch.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a1c"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/sweepingedge.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a1e"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/fire.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a2e"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/luck.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a0f"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/health.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a23"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/lightning.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a1d"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/anvil.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a0d"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/arrow.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a11"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/boots.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a04"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/bubbles.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a0b"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/elytra.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a21"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/feathers.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a0c"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/fishing.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a00"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/haste.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a0a"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/helmet.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a03"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/ice.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a1b"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/leggings.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a24"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/paper.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a2f"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/pickaxe.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a02"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/piercing.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a26"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/quiver.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a28"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/speed.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a09"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/time.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a2c"]
+        },
+    { "type": "bitmap",
+            "file": "minecraft:font/multishot.png",
+            "ascent": 9, "height": 10,
+            "chars": ["\u9a27"]
+        }
+    ]
+}
